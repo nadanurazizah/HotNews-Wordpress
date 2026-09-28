@@ -1,0 +1,111 @@
+/* =========================================================================
+   NEWSLUNAR — CUSTOMIZER CONTROLS STYLESHEET
+   Loaded only inside wp-admin Customize screen.
+   ========================================================================= */
+
+
+/* -------------------------------------------------------------------------
+   1. Upsell Panel
+   ------------------------------------------------------------------------- */
+
+.newslunar-upsell-wrap {
+	margin: 0;
+	padding-top: 0;
+}
+
+/* Remove extra spacing from the upsell control container */
+.customize-control-newslunar-upsell {
+	margin-top: 0 !important;
+	margin-bottom: 12px;
+}
+
+.customize-control-newslunar-upsell .customize-control-content {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+/* Fix spacing at top of Theme Options panel */
+#customize-theme-controls .control-section.control-panel > .accordion-section-title {
+	margin-top: 0;
+}
+
+#customize-theme-controls .control-section.control-panel:first-child {
+	margin-top: 0;
+}
+
+/* Fix spacing in the first section of Theme Options panel */
+#accordion-panel-newslunar_panel .control-section:first-child .accordion-section-title {
+	margin-top: 0 !important;
+}
+
+/* Remove any unwanted top padding from panel content */
+#accordion-panel-newslunar_panel .accordion-section-content {
+	padding-top: 12px;
+}
+
+#accordion-panel-newslunar_panel .control-section:first-child .accordion-section-content {
+	padding-top: 0;
+}
+
+/* Feature list */
+.newslunar-features-list {
+	list-style: none;
+	margin: 0 0 30px;
+}
+
+.newslunar-feature-item {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 5px 0;
+	font-size: 12px;
+	color: #333;
+	border-bottom: 1px solid #ebebeb;
+}
+
+.newslunar-feature-item:last-child {
+	border-bottom: none;
+}
+
+.newslunar-feature-item .dashicons {
+	color: #2271b1;
+	font-size: 16px;
+	flex-shrink: 0;
+}
+
+/* Action buttons */
+.newslunar-upsell-actions {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.newslunar-upsell-actions .button {
+	text-align: center;
+	padding: 5px 10px;
+}
+
+.newslunar-upsell-actions .newslunar-btn-pro {
+	background: #2271b1;
+	color: #fff;
+	border-color: #2271b1;
+}
+
+.newslunar-upsell-actions .newslunar-btn-pro:hover,
+.newslunar-upsell-actions .newslunar-btn-pro:focus {
+	background: #135e96;
+	border-color: #135e96;
+	color: #fff;
+}
+
+.newslunar-upsell-actions .newslunar-btn-help {
+	background: #fff;
+	color: #2271b1;
+	border-color: #2271b1;
+}
+
+.newslunar-upsell-actions .newslunar-btn-help:hover,
+.newslunar-upsell-actions .newslunar-btn-help:focus {
+	background: #2271b1;
+	color: #fff;
+}
