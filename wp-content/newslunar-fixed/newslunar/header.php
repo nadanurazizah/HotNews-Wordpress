@@ -176,6 +176,17 @@
 					
 					<?php endif; ?>
 					
+					<button class="nav-toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="<?php esc_attr_e( 'Open mobile navigation', 'newslunar' ); ?>">
+						
+						<span class="screen-reader-text"><?php _e( 'Menu', 'newslunar' ); ?></span>
+						
+						<div class="bars" aria-hidden="true">
+							<div class="bar"></div>
+							<div class="bar"></div>
+							<div class="bar"></div>
+						</div>
+						
+					</button><!-- .nav-toggle -->
 				
 				</div><!-- .section-inner -->
 				
@@ -218,6 +229,48 @@
 				
 			</div><!-- .navigation -->
 			
+			<!-- Off-Canvas Mobile Menu -->
+			<div id="mobile-menu-overlay" class="mobile-menu-overlay" aria-hidden="true"></div>
+			<nav id="mobile-menu" class="mobile-menu-offcanvas" aria-label="<?php esc_attr_e( 'Mobile Navigation', 'newslunar' ); ?>" aria-hidden="true">
+				
+				<div class="mobile-menu-header">
+					<span class="mobile-menu-title"><?php esc_html_e( 'Menu', 'newslunar' ); ?></span>
+					<button class="mobile-menu-close" aria-label="<?php esc_attr_e( 'Close mobile navigation', 'newslunar' ); ?>">
+						<i class="bi bi-x-lg" aria-hidden="true"></i>
+					</button>
+				</div>
+
+				<div class="mobile-menu-search">
+					<?php get_search_form(); ?>
+				</div>
+				
+				<div class="mobile-menu-content">
+					<ul class="mobile-menu-list reset-list-style">
+						<?php 
+						if ( has_nav_menu( 'primary' ) ) {
+							wp_nav_menu( array(
+								'container'      => '',
+								'items_wrap'     => '%3$s',
+								'theme_location' => 'primary'
+							) ); 
+						} else {
+							wp_list_pages( array(
+								'container' => '',
+								'title_li'  => ''
+							) );
+						}
+						?>
+					</ul>
+					
+					<div class="mobile-menu-extras">
+						<div class="mobile-extras-label"><?php esc_html_e( 'Quick Actions', 'newslunar' ); ?></div>
+                        <div class="navbar-extras">
+						    <?php get_template_part( 'template-parts/header/navbar', 'extras' ); ?>
+                        </div>
+					</div>
+				</div>
+				
+			</nav><!-- .mobile-menu-offcanvas -->
 				
 		</header><!-- .site-header -->
 

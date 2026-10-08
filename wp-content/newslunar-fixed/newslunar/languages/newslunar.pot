@@ -1,0 +1,878 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsLunar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-02 12:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.8; wp-7.1; php-8.1.29\n"
+"X-Domain: newslunar"
+
+#: content.php:35 template-parts/homepage-sections/popular_news.php:73
+#: template-parts/homepage-sections/must_read.php:109
+#: template-parts/homepage-sections/main_banner.php:93
+#: template-parts/homepage-sections/main_banner.php:197
+msgid "% Comments"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:135
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: content.php:35 inc/widgets/interactive-banner.php:131
+#: template-parts/homepage-sections/popular_news.php:71
+#: template-parts/homepage-sections/must_read.php:107
+#: template-parts/homepage-sections/main_banner.php:91
+#: template-parts/homepage-sections/main_banner.php:195
+msgid "0 Comments"
+msgstr ""
+
+#: content.php:35 inc/widgets/interactive-banner.php:133
+#: template-parts/homepage-sections/popular_news.php:72
+#: template-parts/homepage-sections/must_read.php:108
+#: template-parts/homepage-sections/main_banner.php:92
+#: template-parts/homepage-sections/main_banner.php:196
+msgid "1 Comment"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:76
+msgid "Accent Color"
+msgstr ""
+
+#: comments.php:23
+msgid "Add Comment"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:572
+msgid "Add New Section"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:48
+msgid "Advanced Color Controls"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:47
+msgid "Advanced Typography Controls"
+msgstr ""
+
+#: template-parts/homepage-sections/marquee_strip.php:79
+msgid "ago"
+msgstr ""
+
+#: inc/homepage-sections-helpers.php:178 inc/homepage-sections-helpers.php:183
+#: inc/classes/class-newslunar-homepage-sections.php:485
+#: inc/widgets/interactive-banner.php:206 inc/widgets/tabbed-posts.php:229
+#: inc/widgets/tabbed-posts.php:248 inc/widgets/tabbed-posts.php:266
+#: inc/widgets/recent-posts.php:125
+msgid "All Categories"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:489
+msgid "Are you sure you want to remove this section?"
+msgstr ""
+
+#: functions.php:450
+msgid "Awaiting moderation"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:389
+msgid "Back to Top Button"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:223
+msgid "Banner Height (px)"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:325
+msgid "Bars"
+msgstr ""
+
+#: template-parts/homepage-sections/marquee_strip.php:12
+msgid "Breaking News"
+msgstr ""
+
+#: singular.php:34
+msgid "by"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:204 inc/widgets/recent-posts.php:123
+msgid "Category"
+msgstr ""
+
+#: inc/trending-topics-admin.php:14 inc/trending-topics-admin.php:30
+msgid "Category Image"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:318
+msgid "Choose the loading animation style."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:326
+msgid "Circle"
+msgstr ""
+
+#: header.php:238
+msgid "Close mobile navigation"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:61
+msgid "Color Options"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:51
+msgid "Color Scheme Options"
+msgstr ""
+
+#: singular.php:41 comments.php:19 comments.php:82
+msgid "Comment"
+msgstr ""
+
+#: functions.php:421
+msgid "Comment by post author"
+msgstr ""
+
+#: singular.php:40 singular.php:42
+msgid "Comments"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:246
+msgid "CTA Button Label"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:261
+msgid "CTA Button URL"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:49
+msgid "Custom Widget Areas"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:22
+msgid "Customize settings for the NewsLunar theme."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:199
+msgid "Dark Mode"
+msgstr ""
+
+#: template-parts/header/navbar-extras.php:22
+msgid "Dark mode"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:50
+msgid "Dark Mode Support"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:153
+msgid "Date Format"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:140
+#, php-format
+msgid "Default (%s)"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:194
+msgid "Default Color Mode"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:119 inc/widgets/recent-comments.php:104
+msgid "Defaults to 5 if empty"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:238
+msgid ""
+"Display individual articles with their own background image on mobile "
+"devices (≤767px)."
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:231
+msgid ""
+"Display individual articles with their own background image on tablet "
+"devices (≥768px and ≤1024px)."
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:9
+msgid "Displays featured posts in tabbed interface with AJAX loading."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:9
+msgid "Displays recent blog entries."
+msgstr ""
+
+#: inc/widgets/recent-comments.php:9
+msgid "Displays recent comments with user avatars."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:323
+msgid "Dots"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:214
+msgid ""
+"Drag and drop to reorder sections. Add, remove, or configure homepage "
+"sections."
+msgstr ""
+
+#: functions.php:403 functions.php:444 singular.php:34
+#: inc/classes/class-newslunar-homepage-sections.php:480
+msgid "Edit"
+msgstr ""
+
+#: template-parts/homepage-sections/main_banner.php:15
+msgid "Editor's Picks"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:178
+msgid "Enable Color Mode Switcher"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:230
+msgid "Enable CTA Button"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:301
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:214
+msgid "Enable Random Post Button"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:488
+msgid "Enabled"
+msgstr ""
+
+#: 404.php:9
+msgid "Error 404"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:138
+msgid "F j, Y"
+msgstr ""
+
+#: functions.php:602
+msgid "Fallback image"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:217
+msgid "First post will be featured (large), others will be regular size."
+msgstr ""
+
+#: functions.php:180
+msgid "Footer %d"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:353
+msgid "Footer Options"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:158
+msgid "Full-width widget area for homepage section."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:271
+msgid "General"
+msgstr ""
+
+#: inc/classes/class-newslunar-upsell-section.php:56
+msgid "Help Center"
+msgstr ""
+
+#: functions.php:201
+msgid "Homepage After Post"
+msgstr ""
+
+#: functions.php:191
+msgid "Homepage Before Post"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:217
+#: inc/classes/class-newslunar-homepage-sections.php:236
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:148
+msgid "Homepage Widget Area %d"
+msgstr ""
+
+#. Name of the template
+#: homepage-sections.php:2
+msgid "Homepage with Sections"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://unitedtheme.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://unitedtheme.com/themes/newslunar"
+msgstr ""
+
+#: inc/trending-topics-admin.php:129
+msgid "Image"
+msgstr ""
+
+#: template-parts/homepage-sections/in_case_missed.php:9
+msgid "In Case You Missed"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:9
+msgid ""
+"Interactive banner with hover-changing background images and post titles."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It seems like you have tried to open a page that doesn't exist. It could "
+"have been deleted, moved, or it never existed at all. Either way, you're "
+"welcome to search for what you are looking for with the form below."
+msgstr ""
+
+#: template-parts/homepage-sections/latest_posts.php:11
+msgid "Latest Posts"
+msgstr ""
+
+#: template-parts/homepage-sections/cta_section.php:18
+msgid "Learn More"
+msgstr ""
+
+#: comments.php:78
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:79
+msgid "Leave a Reply to"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:198
+msgid "Light Mode"
+msgstr ""
+
+#: template-parts/header/navbar-extras.php:16
+msgid "Light mode"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:66
+msgid "Loading..."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:343
+msgid "Logo"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:169
+#, php-format
+msgid "Main area widget for \"%s\" section."
+msgstr ""
+
+#: template-parts/homepage-sections/main_banner.php:10
+msgid "Main Story"
+msgstr ""
+
+#: header.php:181 header.php:237
+msgid "Menu"
+msgstr ""
+
+#: header.php:234
+msgid "Mobile Navigation"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:46
+msgid "Multiple Header Layouts"
+msgstr ""
+
+#: template-parts/homepage-sections/must_read.php:9
+msgid "Must Read"
+msgstr ""
+
+#: functions.php:486
+msgctxt "Name of the accent color in the Block Editor palette"
+msgid "Accent"
+msgstr ""
+
+#: functions.php:491
+msgctxt "Name of the black color in the Block Editor palette"
+msgid "Black"
+msgstr ""
+
+#: functions.php:496
+msgctxt "Name of the dark gray color in the Block Editor palette"
+msgid "Dark Gray"
+msgstr ""
+
+#: functions.php:531
+msgctxt "Name of the large font size in Block Editor"
+msgid "Large"
+msgstr ""
+
+#: functions.php:537
+msgctxt "Name of the larger font size in Block Editor"
+msgid "Larger"
+msgstr ""
+
+#: functions.php:506
+msgctxt "Name of the light gray color in the Block Editor palette"
+msgid "Light Gray"
+msgstr ""
+
+#: functions.php:501
+msgctxt "Name of the medium gray color in the Block Editor palette"
+msgid "Medium Gray"
+msgstr ""
+
+#: functions.php:525
+msgctxt "Name of the normal font size in Block Editor"
+msgid "Normal"
+msgstr ""
+
+#: functions.php:519
+msgctxt "Name of the small font size in Block Editor"
+msgid "Small"
+msgstr ""
+
+#: functions.php:511
+msgctxt "Name of the white color in the Block Editor palette"
+msgid "White"
+msgstr ""
+
+#. Name of the theme
+msgid "NewsLunar"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"NewsLunar is a modern, responsive, SEO-friendly WordPress magazine and news "
+"theme for news portals, online magazines, newspapers, blogs, editorial "
+"websites, and content publishers. Perfect for breaking news, latest news, "
+"trending news, technology, business, sports, entertainment, lifestyle, "
+"politics, health, travel, fashion, finance, education, and multi-category "
+"blogs. Features a clean, fast, mobile-friendly, customizable, and "
+"professional magazine layout with featured posts, news blocks, category "
+"sections, post grids, widgets, sidebars, social media integration, and "
+"modern typography."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:28
+msgid "NewsLunar Pro"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:7
+msgid "NewsLunar: Interactive Banner"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:7
+msgid "NewsLunar: Post Tabs"
+msgstr ""
+
+#: pagination.php:58 comments.php:58
+msgid "Next"
+msgstr ""
+
+#: inc/tabbed-posts-ajax.php:88 inc/widgets/tabbed-posts.php:94
+#: template-parts/homepage-sections/latest_posts.php:55
+msgid "No posts found."
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:151
+msgid "No posts with featured images found."
+msgstr ""
+
+#: index.php:91
+msgid "No results. Try again, would you kindly?"
+msgstr ""
+
+#: inc/widgets/recent-comments.php:102
+msgid "Number of comments to display"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:486
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:198
+msgid "Number of posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:117
+msgid "Number of posts to display"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:219
+msgid "Number of posts to skip."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:138
+msgid "Number of posts to skip. Use 0 to show from the beginning."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:368
+msgid "Number of Widget Areas"
+msgstr ""
+
+#: singular.php:34
+msgid "on"
+msgstr ""
+
+#: header.php:179
+msgid "Open mobile navigation"
+msgstr ""
+
+#: index.php:23
+msgid "Page"
+msgstr ""
+
+#: singular.php:96
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:42
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr ""
+
+#: template-parts/homepage-sections/popular_news.php:9
+msgid "Popular News"
+msgstr ""
+
+#: template-parts/homepage-sections/trending_topics.php:81
+msgid "POST"
+msgid_plural "POSTS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:487
+#: inc/widgets/interactive-banner.php:217 inc/widgets/recent-posts.php:136
+msgid "Post Offset"
+msgstr ""
+
+#: singular.php:34
+msgid "Posted"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:215
+msgid "Posts per tab"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:200
+msgid "Posts with featured images only. Min: 2, Max: 5."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:317
+msgid "Preloader Style"
+msgstr ""
+
+#: pagination.php:10 comments.php:57
+msgid "Previous"
+msgstr ""
+
+#: functions.php:70
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:52
+msgid "Priority Support"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:324
+msgid "Pulse"
+msgstr ""
+
+#: header.php:262
+msgid "Quick Actions"
+msgstr ""
+
+#: template-parts/header/navbar-extras.php:33
+msgid "Random post"
+msgstr ""
+
+#: functions.php:349
+msgid "Read More"
+msgstr ""
+
+#: functions.php:271
+msgid "Read Next"
+msgstr ""
+
+#: inc/widgets/recent-comments.php:7
+msgid "Recent Comments"
+msgstr ""
+
+#: sidebar.php:25 inc/widgets/recent-posts.php:7
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:481
+msgid "Remove"
+msgstr ""
+
+#: inc/trending-topics-admin.php:36
+msgid "Remove Image"
+msgstr ""
+
+#: functions.php:455
+msgid "Reply"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: index.php:18
+#, php-format
+msgid "Search results: \"%s\""
+msgstr ""
+
+#: functions.php:71
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:484
+msgid "Select Category"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:580
+msgid "Select Section Type"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:236
+msgid "Separate banner views on mobile"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:229
+msgid "Separate banner views on tablet"
+msgstr ""
+
+#: functions.php:532
+msgctxt "Short name of the large font size in the Block Editor."
+msgid "L"
+msgstr ""
+
+#: functions.php:538
+msgctxt "Short name of the larger font size in the Block Editor."
+msgid "XL"
+msgstr ""
+
+#: functions.php:526
+msgctxt "Short name of the normal font size in the Block Editor."
+msgid "N"
+msgstr ""
+
+#: functions.php:520
+msgctxt "Short name of the small font size in the Block Editor."
+msgid "S"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:302
+msgid "Show a loading animation while the page loads."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:231
+msgid "Show call-to-action button in navigation"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:179
+msgid "Show day/night/system mode toggle button"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:286
+msgid "Show Latest Posts Section Title"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:215
+msgid "Show random post button in navigation"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:130
+msgid "Show/Hide Social Menu"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:115
+msgid "Show/Hide Today's Date"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:100
+msgid "Show/Hide Topbar"
+msgstr ""
+
+#: functions.php:168
+msgid "Sidebar"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:179
+#, php-format
+msgid "Sidebar widget for \"%s\" section."
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:240
+#: template-parts/header/navbar-extras.php:41
+msgid "Sign In"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:163
+msgid "Site Navigation"
+msgstr ""
+
+#: header.php:53
+msgid "Skip to the content"
+msgstr ""
+
+#: functions.php:72
+msgid "Social Menu"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:322
+msgid "Spinner"
+msgstr ""
+
+#: content.php:10
+msgid "Sticky post"
+msgstr ""
+
+#: template-parts/header/navbar-extras.php:19
+msgid "System mode"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:200
+msgid "System Preference"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:227
+msgid "Tab 1 Category"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:223
+msgid "Tab 1 Name"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:221
+msgid "Tab 1 Settings"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:246
+msgid "Tab 2 Category"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:242
+msgid "Tab 2 Name"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:240
+msgid "Tab 2 Settings"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:264
+msgid "Tab 3 Category"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:260
+msgid "Tab 3 Name"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:258
+msgid "Tab 3 Settings"
+msgstr ""
+
+#: footer.php:43
+#, php-format
+msgid "Theme by %s"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:19
+msgid "Theme Options"
+msgstr ""
+
+#: 404.php:12
+msgid "These are Not the Results You're Looking For"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:483
+#: inc/widgets/recent-posts.php:112 inc/widgets/recent-comments.php:97
+msgid "Title"
+msgstr ""
+
+#: footer.php:37
+msgid "To the top"
+msgstr ""
+
+#: inc/classes/class-newslunar-homepage-sections.php:482
+msgid "Toggle"
+msgstr ""
+
+#: inc/classes/class-newslunar-customizer.php:85
+msgid "Topbar Options"
+msgstr ""
+
+#: template-parts/homepage-sections/main_banner.php:20
+msgid "Trending Story"
+msgstr ""
+
+#: template-parts/homepage-sections/trending_topics.php:10
+msgid "Trending Topics"
+msgstr ""
+
+#. Author of the theme
+msgid "UnitedTheme"
+msgstr ""
+
+#: inc/classes/class-newslunar-upsell-section.php:51
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/trending-topics-admin.php:18 inc/trending-topics-admin.php:43
+msgid ""
+"Upload an image for this category to display in Trending Topics section."
+msgstr ""
+
+#: inc/trending-topics-admin.php:16 inc/trending-topics-admin.php:34
+msgid "Upload Image"
+msgstr ""
+
+#: searchform.php:9
+msgid "What are you looking for?"
+msgstr ""
+
+#: inc/widgets/tabbed-posts.php:210
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/interactive-banner.php:193
+msgid "Widget Title (Optional)"
+msgstr ""
+
+#: functions.php:203
+msgid "Widgets in this area will be shown after posts on the homepage."
+msgstr ""
+
+#: functions.php:193
+msgid "Widgets in this area will be shown before posts on the homepage."
+msgstr ""
+
+#: functions.php:182
+msgid "Widgets in this area will be shown in the footer."
+msgstr ""
+
+#: functions.php:170
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr ""
+
+#: 404.php:21
+#, php-format
+msgid ""
+"You can also return to the %1$s home page %2$s and continue your search from "
+"there."
+msgstr ""
